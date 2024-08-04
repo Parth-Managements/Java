@@ -19,5 +19,6 @@ public class loop {
         System.out.println("Sum = " + sum);
         sc.close();
 
+
     }
 }
